@@ -1,0 +1,156 @@
+body{ 
+	background-color:#ffc800;
+	padding-left:1%;
+	padding-right:19%;
+ }
+ 
+label{
+	font-size: 14px;
+	font-weight: normal;
+}
+
+#formulario{width:100%;
+			}
+	
+#text{
+	font-size: 15px;
+	font-weight: bold;
+}
+
+#text1{
+	font-size: 15px;
+	font-weight: bold;
+}
+
+#checkbox1{
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#checkbox2{
+	font-size: 14px;
+	font-weight: bold;
+}
+#select{
+	font-size: 17px;
+	font-weight: bold;
+}
+#select1{
+	font-size: 17px;
+	font-weight: bold;
+}
+
+#radio{
+	font-size: 14px;
+	font-weight: bold;
+}
+#radio1{
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#select2{
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#multiple1{
+	font-size: 17px;
+	font-weight: bold;
+}
+#multiple{
+	font-size: 17px;
+	font-weight: bold;
+}
+
+#titulo{
+	font-size: 25px;
+	font-weight: bold;
+	text-decoration: underline;
+	width:107%;
+}
+
+#examenDiv{
+	text-align:center;
+	margin-left: 20%;
+}
+#examenDiv img{
+	float: left;
+    width: 21%;
+    position: relative;
+	}
+
+ul{
+	list-style-type:none;
+	margin:4px 0px;
+	padding:0;
+	overflow:hidden
+}	
+
+input{
+	width:100%;
+}
+
+select{
+	width:65%;
+}
+	
+input[type=checkbox]{
+	width:50%;
+	display:inline-block;
+	height: 32px;
+    cursor: pointer;
+}
+
+input[type=radio]{
+	width:50%;
+	zoom:2;
+}
+
+form{
+	background-color:white;
+		padding:3%;
+		height: 10%;
+		width: 118%;
+		margin-top: 3%;
+}
+
+#resultadosDiv{
+	width:100%;
+	margin:20px auto;
+}
+
+#cor{
+	background: #5cf338;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    font-weight: bold;
+    font-size: 15px;
+	padding: 7px;
+}
+#titulo22{
+	font-size: 32px;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+}
+#test{
+	width: 50px;
+}
+#lal{
+	font-size: 25px;
+	font-weight: bold;
+}
+#enlaceExamen li a{
+color:#48D1CC;
+text-decoration:none;
+font-size:20px;
+line-height:1.3em;
+padding:10px 14px 8px 16px;
+display:block;
+color: green;
+cursor: pointer;
+float: left;
+
+}
