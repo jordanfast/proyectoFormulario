@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question>
+    <question id='1'>
+        <type>text</type>
+        <text>¿De que color era el caballo blanco de Napoleón?</text>
+        <answer>blanco</answer>
+    </question>
+    <question id='2'>
+        <type>text</type>
+        <text>¿Cómo se llama el primer metal descubierto por el hombre? </text>
+        <answer>cobre</answer>
+    </question>
+        <question id='3'>
+        <type>select</type>
+        <text>¿Cuántos continentes existen en la tierra?</text>
+        <option>4</option>
+        <option>6</option>
+        <option>1</option>
+        <option>5</option>
+        <answer>3</answer>
+    </question>
+    <question id='4'>
+        <type>select</type>
+        <text>¿Las islas malvinas pertenece a...?</text>
+        <option>Argentina</option>
+        <option>Bahamas</option>
+        <option>Reino Unido</option>
+        <option>Chile</option>
+        <answer>0</answer>
+    </question>
+    <question id='5'>
+        <type>multiple</type>
+        <text>¿En que isla murió Napoleón?</text>
+        <option>Malta</option>
+        <option>Santa Elena</option>
+        <option>Corsega</option>
+        <option>Groenlandia</option>
+        <answer>1</answer>
+    </question>
+    <question id='6'>
+        <type>multiple</type>
+        <text>¿En que año se descubrio Colón a America?</text>
+        <option>1764</option>
+        <option>1746</option>
+        <option>1492</option>
+        <option>1392</option>
+        <answer>2</answer>
+    </question>
+    <question id='7'>
+        <type>radio</type>
+        <text>¿En que país se ubican las ruinas de Esparta?</text>
+        <option>Grecia</option>
+        <option>Italia</option>
+        <option>Turquia</option>
+        <option>Israel</option>
+        <answer>0</answer>
+    </question>
+    <question id='8'>
+        <type>radio</type>
+        <text>¿Qué país es el segundo país con mayor población?</text>
+        <option>Rusia</option>
+        <option>India</option>
+        <option>USA</option>
+        <option>China</option>
+        <answer>1</answer>
+    </question>
+        <question id='9'>
+        <type>checkbox</type>
+        <text>¿Qué idiomas son oficiales en Canadá?</text>
+        <option>Español</option>
+        <option>Noruego</option>
+        <option>Francés</option>
+        <option>Inglés</option>
+        <answer>2</answer>
+		<answer>3</answer>
+    </question>
+    <question id='10'>
+        <type>checkbox</type>
+        <text>¿Qué "Coreas" existen?</text>
+        <option>Corea del Norte</option>
+        <option>Corea del Este</option>
+        <option>Corea del Sur</option>
+        <option>Corea del Oeste</option>
+        <answer>0</answer>
+		<answer>2</answer>
+    </question>
+</questions>
