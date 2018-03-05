@@ -66,7 +66,7 @@ window.onload = function(){
    gestionarXml(this);
   }
  };
- xhttp.open("GET", "https://rawgit.com/jordanfast/proyecto2/master/xml/Preguntas_XML.xml", true);
+ xhttp.open("GET", "https://rawgit.com/jordanfast/proyectoFormulario/master/xml/Preguntas_XML.xml", true);
  xhttp.send();
 }
 
